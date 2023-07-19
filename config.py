@@ -2,8 +2,8 @@
 # API_KEY = 'roYEhqmVofKBbivfaiUa2gTFZUycLiXdcKlLPzfwD0Cdqddquphwx6Qs1BjQH46E'
 # API_SECRET = 'sh7vINt6oI7iD2koEX2rLtrQvauVnUBJTk4b3voMn8NZrTl40hfdEuqHSspU4MIV'
 
-API_KEY = 'yPenI0dD5hfad3NvqTkcIfu9dFQw5EiswoCSc3OEAW6RZgA4nAqQWlzJjxXg0q89'
-API_SECRET = 'yWprUcMv1Z1HvButS7j7PcMYP4fYLMOKCdjDagvsoT4l71FP4vJflr1oq0989eTY'
+API_KEY = 'your_api_key'
+API_SECRET = 'your_api_secret'
 
 time_intervals = {
     "1m": 60,

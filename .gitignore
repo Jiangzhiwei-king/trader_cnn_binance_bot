@@ -1,0 +1,71 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment files
+venv/
+env/
+*.env
+
+# Ignore database files
+db.sqlite3
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore cache and temporary files
+*.cache
+*.tmp
+*.temp
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled code and build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.a
+*.csv
+*.h5
+
+# Ignore package and distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs/
+data/
+data_15/
+
+# Ignore Node.js and npm files
+node_modules/
+npm-debug.log*
+
+# Ignore macOS folder attributes
+.AppleDouble
+.AppleDesktop
+._*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore generated documentation
+docs/_build/
+
+# Ignore any custom files specific to your project
+# Add any additional files or directories you want to ignore
